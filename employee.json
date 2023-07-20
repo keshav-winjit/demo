@@ -1,0 +1,14 @@
+{
+
+ "employee":[{ "employeeId":1,
+  "employeeName":"Rahul Patel",
+  "employeeImage":"humicdity.png",
+  "department":"americas"
+
+ },
+  {"employeeId":2,
+  "employeeName":"Karan Patil",
+  "employeeImage":"rainyday.png",
+  "department":"rib"
+  }]
+}
